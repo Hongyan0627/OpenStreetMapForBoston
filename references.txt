@@ -1,0 +1,5 @@
+http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/
+https://docs.mongodb.org/getting-started/python
+https://docs.mongodb.org/getting-started/python/import-data/
+https://docs.mongodb.org/getting-started/python/query/
+https://docs.mongodb.org/getting-started/python/aggregation/
